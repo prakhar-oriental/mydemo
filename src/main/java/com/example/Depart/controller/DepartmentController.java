@@ -20,7 +20,7 @@ import com.example.Depart.service.Departmentservice;
 //Class
 public class DepartmentController {
 
-
+//prakhar
  @Autowired
  private Departmentservice departmentService;
 
